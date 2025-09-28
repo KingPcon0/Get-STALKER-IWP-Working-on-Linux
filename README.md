@@ -75,7 +75,7 @@
 
 25.  From here you can click play.
 
- 25a. Next to the play button there is a three dots icon that allows you to set your launch options. I would recommened to click "Add to Steam". This will allow it to launch through Steam as a standard game in your library. You will need to restart Steam for it to appear.
+       25a. Next to the play button there is a three dots icon that allows you to set your launch options. I would recommened to click "Add to Steam". This will allow it to launch through Steam as a standard game in your library. You will need to restart Steam for it to appear.
 
 26.  Congratulations you have setup IWP to work on Linux.
 
