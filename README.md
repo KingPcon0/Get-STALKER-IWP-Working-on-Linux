@@ -69,7 +69,7 @@
 
 23.  Point Bottles to where ever you have installed IWP to find "Launcher.exe" for me it's "/mnt/SSD1/Games/IWP/Launcher.exe".
 
-   23a.You can repeat these previous four steps above to add the JSGME.exe mod manager and run mods the same as you would Windows
+      23a.You can repeat these previous four steps above to add the JSGME.exe mod manager and run mods the same as you would Windows
 
 24.  Once you have selected the executable successfully you should see it added under "programs" as "Launcher".
 
