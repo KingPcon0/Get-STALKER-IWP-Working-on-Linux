@@ -1,4 +1,4 @@
-# Guide to Set Up STALKER IWP on Linux Distributions
+# Guide to Set Up STALKER IWP on Linux
 
 ## Setting Up Flatpak and Bottles
 
