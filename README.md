@@ -57,7 +57,7 @@
 
 19.  Extract the Second Patch files into the IWP directory and allow any overwrites to all files within the directory.
 
-    19a. You will notice the verbage is different from Windows slightly however the process is the same depending on your file manager your distro uses. Check with your distro's wiki page to verify what it uses as a file manager.
+     19a. You will notice the verbage is different from Windows slightly however the process is the same depending on your file manager your distro uses. Check with your distro's wiki page to verify what it uses as a file manager.
 
 ## Back to Bottles
 
@@ -69,13 +69,13 @@
 
 23.  Point Bottles to where ever you have installed IWP to find "Launcher.exe" for me it's "/mnt/SSD1/Games/IWP/Launcher.exe".
 
-    23a.You can repeat these previous four steps above to add the JSGME.exe mod manager and run mods the same as you would Windows
+   23a.You can repeat these previous four steps above to add the JSGME.exe mod manager and run mods the same as you would Windows
 
 24.  Once you have selected the executable successfully you should see it added under "programs" as "Launcher".
 
 25.  From here you can click play.
 
-    25a. Next to the play button there is a three dots icon that allows you to set your launch options. I would recommened to click "Add to Steam". This will allow it to launch through Steam as a standard game in your library. You will need to restart Steam for it to appear.
+ 25a. Next to the play button there is a three dots icon that allows you to set your launch options. I would recommened to click "Add to Steam". This will allow it to launch through Steam as a standard game in your library. You will need to restart Steam for it to appear.
 
 26.  Congratulations you have setup IWP to work on Linux.
 
