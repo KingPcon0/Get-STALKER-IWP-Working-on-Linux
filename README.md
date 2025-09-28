@@ -10,26 +10,28 @@
    2a. If your distribution does not have Flatpak installed, follow the guide provided to get set up.
 
    2b. To verify that you have installed correctly, open your terminal (Ctrl+T) and type in the following command:
-   flatpak --version
-   Currently, v1.16.0 is the latest build of Flatpak.
 
-3. Now that you have verified that Flatpak is installed, you can go to your distribution’s software center and search “Bottles”
+         flatpak --version
+   
+   2c. Currently, v1.16.0 is the latest build of Flatpak.
 
-4. Install Bottles.
+4. Now that you have verified that Flatpak is installed, you can go to your distribution’s software center and search “Bottles”
 
-5. Open Bottles and go through the initial set up.
+5. Install Bottles.
 
-6. Once the initial set up is complete, in the top-left click the three-dot icon in the top-right of Bottles, then select “Preferences”
+6. Open Bottles and go through the initial set up.
 
-7. Go to “Runners” At the bottom you should see "Proton GE".
+7. Once the initial set up is complete, in the top-left click the three-dot icon in the top-right of Bottles, then select “Preferences”
 
-8. Click “Download & Install” to install Proton 10-17.
+8. Go to “Runners” At the bottom you should see "Proton GE".
+
+9. Click “Download & Install” to install Proton 10-17.
 
     8a. As of the time of writing this , the latest Proton build is 10-17.
 
-9. In the top-left of Bottles, click the “+” icon to create a new bottle.
+10. In the top-left of Bottles, click the “+” icon to create a new bottle.
 
-10. Name this bottle “Games” as you can use this for more games than just IWP.
+11. Name this bottle “Games” as you can use this for more games than just IWP.
 
 
 ## Setting Up the Bottle
