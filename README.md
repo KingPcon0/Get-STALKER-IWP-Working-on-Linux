@@ -7,18 +7,18 @@
 2. Use this link to verify that the distribution you have selected supports Flatpak:
    https://flatpak.org/setup/
 
-   2a. If your distribution does not have Flatpak installed, follow the guide provided to get set up.
+   a. If your distribution does not have Flatpak installed, follow the guide provided to get set up.
 
-   2b. To verify that you have installed Flatpak correctly. Open your terminal (Ctrl+T) and type in the following command:
+   b. To verify that you have installed Flatpak correctly. Open your terminal (Ctrl+T) and type in the following command:
 
          flatpak --version
    
-   2c. The latest build of Flatpak currently v1.16.0 is.
+   c. The latest build of Flatpak currently v1.16.0 is.
 
 4. Now that you have verified that Flatpak is installed, you can go to your Linux distribution’s software center and search “Bottles”
 
 5. Install Bottles.
-   5a. You can also install via the terminal if prefered flathub.org link here:
+   a. You can also install via the terminal if prefered flathub.org link here:
    
 
 6. Before opening Bottles enter this command into your terminal so you can give permission to Bottles to access your file system
@@ -33,7 +33,7 @@
 
 11. Click “Download & Install” to install Proton 10-17.
 
-    11a. At the time of writing this, the latest Proton build is 10-17.
+    a. At the time of writing this, the latest Proton build is 10-17.
 
 12. In the top-left of Bottles, click the “+” icon to create a new bottle.
 
@@ -68,7 +68,7 @@
 
 23. Extract the Second Patch files into the IWP directory and allow any overwrites to all files within the directory.
 
-     23a. You will notice the verbage is different from Windows slightly however the process is the same depending on your file manager your distro uses. Check with your distro's wiki page to verify what it uses as a file manager.
+     a. You will notice the verbage is different from Windows slightly however the process is the same depending on your file manager your distro uses. Check with your distro's wiki page to verify what it uses as a file manager.
 
 ## Back to Bottles
 
@@ -80,19 +80,19 @@
 
 27.  Point Bottles in the direction of where ever you have installed IWP to find "Launcher.exe" for example it's "/mnt/SSD1/Games/IWP/Launcher.exe".
 
-   27a. You can repeat steps 24-27 above to add the JSGME.exe mod manager and run mods the same as you would Windows
+   a. You can repeat steps 24-27 above to add the JSGME.exe mod manager and run mods the same as you would Windows
     
-   27b. You can also run Mod Organizer 2 as well just repeat steps 24-27 to add ModOrganizer.exe if you use MO2 for managing your mods
+   b. You can also run Mod Organizer 2 as well just repeat steps 24-27 to add ModOrganizer.exe if you use MO2 for managing your mods
 
 28. Once you have selected the executable successfully you should see it added under "programs" as "Launcher".
 
-   28a. You can rename "Launcher" to IWP by looking at the three-dot icon to the right of "Launcher" within the drop down menu you should see "Rename"
+   a. You can rename "Launcher" to IWP by looking at the three-dot icon to the right of "Launcher" within the drop down menu you should see "Rename"
    
-   28b. If you decide to rename it you will need to remove it from steam and re-add it again by repeating step 29a
+   b. If you decide to rename it you will need to remove it from steam and re-add it again by repeating step 29a
 
 29. From here you can click play.
 
-   29a. If you want to add this to Steam. You will notice next to the play button there is a three dots icon that allows you to set your launch options. From the drop down menu you will see "Add to Steam". This will allow it to launch through Steam as a                standard game in your library. You will need to restart Steam for it to appear.
+   a. If you want to add this to Steam. You will notice next to the play button there is a three dots icon that allows you to set your launch options. From the drop down menu you will see "Add to Steam". This will allow it to launch through Steam as a standard game in your library. You will need to restart Steam for it to appear.
 
 30. Congratulations you have setup IWP to work on Linux.
 
