@@ -19,7 +19,7 @@
 
 5. Install Bottles.
 
-6. Before opening Bottles enter this command into your terminal so you can give permission to bottles to access your file system
+6. Before opening Bottles enter this command into your terminal so you can give permission to Bottles to access your file system
 
         sudo flatpak override --user --filesystem=host com.usebottles.bottles
 
