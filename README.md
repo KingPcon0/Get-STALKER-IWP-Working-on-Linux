@@ -18,10 +18,12 @@
 4. Now that you have verified that Flatpak is installed, you can go to your Linux distribution’s software center and search “Bottles”
 
 5. Install Bottles.
-   a. You can also install via the terminal if prefered flathub.org link here:
+
+   a. You can also install via the terminal if prefered flathub.org link here: 
+   https://flathub.org/en/apps/com.usebottles.bottles
    
 
-6. Before opening Bottles enter this command into your terminal so you can give permission to Bottles to access your file system
+7. Before opening Bottles enter this command into your terminal so you can give permission to Bottles to access your file system
 
         sudo flatpak override --user --filesystem=host com.usebottles.bottles
 
