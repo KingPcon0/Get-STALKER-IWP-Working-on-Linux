@@ -26,22 +26,26 @@
 7. Before opening Bottles enter this command into your terminal so you can give permission to Bottles to access your file system
 
         sudo flatpak override --user --filesystem=host com.usebottles.bottles
+   
+      a. An alternative to preforming this command in your terminal is using a program called "Flatsteal". You can find the application by using the same method in step 4.
+   
+      b. If you do instsall Flatsteal you should see "Bottles" scroll down until you see "Filesystems" and enable "All system files". This should preform the same function in the command above. 
+   
+9. Open Bottles and go through the initial set up.
 
-8. Open Bottles and go through the initial set up.
+10. Once the initial set up is complete, in the top-right click the three-dot icon in Bottles, then in the drop down menu select “Preferences”.
 
-9. Once the initial set up is complete, in the top-right click the three-dot icon in Bottles, then in the drop down menu select “Preferences”.
+11. Go to the “Runners” tab at the top within the "Prefernces" window, then towards the bottom and you should see "Proton GE". 
 
-10. Go to the “Runners” tab at the top within the "Prefernces" window, then towards the bottom and you should see "Proton GE". 
-
-11. Click “Download & Install” to install Proton 10-17.
+12. Click “Download & Install” to install Proton 10-17.
 
     a. At the time of writing this, the latest Proton build is 10-17.
 
-12. In the top-left of Bottles, click the “+” icon to create a new bottle.
+13. In the top-left of Bottles, click the “+” icon to create a new bottle.
 
-13. Name this bottle “Games” as you can use this for more games than just IWP.
+14. Name this bottle “Games” as you can use this for more games than just IWP.
 
-14. Select the "Gaming" option when creating a fresh bottle, then in the "Runners" drop down select "ge-proton10-17"
+15. Select the "Gaming" option when creating a fresh bottle, then in the "Runners" drop down select "ge-proton10-17"
 
 
 
